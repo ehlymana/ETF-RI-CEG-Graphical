@@ -1,6 +1,14 @@
-# ETF-RI-CEG (Graphical tool)
+# ETF-RI-CEG (Graphical software tool)
 
 **ETF-RI-CEG** is a graphical software tool for creating cause-effect graph specifications. It was developed by using the Windows Forms desktop application type and the C# programming language. The tool is intended for helping domain experts and end users easily create cause-effect graph representation by using an intuitive user interface and graphical cause-effect graph elements.
+
+This application was developed at the Department of Computer Science and Informatics, Faculty of Electrical Engineering, University of Sarajevo, Bosnia and Herzegovina.
+
+If you use this software tool for your research, please cite the following work:
+
+```
+TBA
+```
 
 ## Prerequisites
 
