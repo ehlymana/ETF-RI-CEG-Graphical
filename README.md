@@ -13,6 +13,10 @@ TBA
 ## Prerequisites
 
 The application was developed by using **.NET 5**, which is cross-platform and supported on Microsoft Windows, Linux and Mac OS operating systems.
+However, Windows Forms application type cannot run on other operating systems yet. If you want to use this application on other operating systems, you must use [Mono](https://www.mono-project.com).
+
+To be able to use ETF-RI-CEG on the Microsoft Windows operating system, you first need to install *.NET 5 Desktop Runtime*. You can download it from [here](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) for your version of MS Windows operating system.
+
 Users of Microsoft Windows can directly execute the application by accessing the following file:
 
 ```
