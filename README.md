@@ -1,6 +1,6 @@
 # ETF-RI-CEG (Graphical software tool)
 
-**ETF-RI-CEG** is a graphical software tool for creating cause-effect graph specifications. It was developed by using the Windows Forms desktop application type and the C# programming language. The tool is intended for helping domain experts and end users easily create cause-effect graph representation by using an intuitive user interface and graphical cause-effect graph elements.
+**ETF-RI-CEG** is a graphical software tool for creating cause-effect graph specifications. It was developed by using the Windows Forms desktop application type and the C# programming language. The tool is intended for helping domain experts and end users to easily create cause-effect graph representations by using an intuitive user interface and graphical cause-effect graph elements.
 
 This application was developed at the Department of Computer Science and Informatics, Faculty of Electrical Engineering, University of Sarajevo, Bosnia and Herzegovina.
 
@@ -13,11 +13,11 @@ TBA
 ## Prerequisites
 
 The application was developed by using **.NET 5**, which is cross-platform and supported on Microsoft Windows, Linux and Mac OS operating systems.
-However, Windows Forms application type cannot run on other operating systems yet. If you want to use this application on other operating systems, you must use [Mono](https://www.mono-project.com).
+However, Windows Forms application type cannot run on other operating systems yet. If you want to use this application on other operating systems, you must use [Wine](https://www.winehq.org).
 
 To be able to use ETF-RI-CEG on the Microsoft Windows operating system, you first need to install *.NET 5 Desktop Runtime*. You can download it from [here](https://dotnet.microsoft.com/en-us/download/dotnet/5.0) for your version of MS Windows operating system.
 
-Users of Microsoft Windows can directly execute the application by accessing the following file:
+Users of Microsoft Windows and other operating systems with a working Wine installation can directly execute the application by accessing the following file:
 
 ```
 CauseEffectGraphGraphical\CauseEffectGraph\bin\Debug\net5.0-windows\CauseEffectGraph.exe
@@ -28,8 +28,6 @@ CauseEffectGraphGraphical\CauseEffectGraph\bin\Debug\net5.0-windows\CauseEffectG
  ```
 CauseEffectGraphGraphical\CauseEffectGraph\bin\Release\net5.0-windows\CauseEffectGraph.exe
 ```
-
-Users of other operating systems are advised to either build the application from source code on their operating system (e.g. by opening the project in Microsoft Visual Studio or by using .NET command line interface) or contact the application author to build the application for them.
 
 ## Functionalities
 
