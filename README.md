@@ -7,7 +7,7 @@ This application was developed at the Department of Computer Science and Informa
 If you use this software tool for your research, please cite the following work:
 
 ```
-TBA
+E. Krupalija, Š. Bećirović, I. Prazina, E. Cogo and I. Bešić, "New Graphical Software Tool for Creating Cause-Effect Graph Specifications," in Journal of Communications Software and Systems, vol. 18, no. 4, pp. 311-322, November 2022, doi: 10.24138/jcomss-2022-0076
 ```
 
 ## Prerequisites
